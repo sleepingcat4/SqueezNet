@@ -1,0 +1,9 @@
+dist 
+.venv 
+__pycache__ 
+data 
+squeezenet 
+squeeznet.egg-info 
+pyproject.toml 
+README.md 
+squeeznet.pth 

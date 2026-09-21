@@ -2,8 +2,9 @@ dist
 .venv 
 __pycache__ 
 data 
-squeezenet 
+squeeznet 
 squeeznet.egg-info 
 pyproject.toml 
 README.md 
 squeeznet.pth 
+.vscode
